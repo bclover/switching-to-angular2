@@ -8,7 +8,7 @@ import {bootstrap} from 'angular2/platform/browser';
 class App {
   target:string;
   constructor() {
-    this.target = 'world';
+    this.target = 'World!';
   }
 }
 
